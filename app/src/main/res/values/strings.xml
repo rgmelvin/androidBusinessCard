@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="FullName">Richard G. Melvin, Ph.D.</string>
+    <string name="OccupationOne">Life Scientist</string>
+    <string name="OccupationTwo">Android Developer</string>
+    <string name="Telephone">+1 218 251 7798\n+61 406 093 848</string>
+    <string name="Email">rgmelvinphd@gmail.com</string>
+    <string name="Scholar">http://tinyurl.com/4nbaycpf</string>
+</resources>
