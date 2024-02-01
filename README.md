@@ -5,4 +5,6 @@ This exercise gave me practice designing simple layouts with Column and Row comp
 how to arrange composables using horizontalAlignment and verticalArrangement parameters, 
 and how to customize Compose elements with a Modifier object.
 
-I am not sure this is the best design but it was good practice in use of composables.
+I am not sure this is the best design but it was good practice in use of composables
+and I certainly understand everything in this code.
+I am excited to learn more sophisticated ways of laying out a UI
